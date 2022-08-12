@@ -1,0 +1,8 @@
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\obj\Debug\Jogo da velha.csproj.AssemblyReference.cache
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\obj\Debug\Jogo da velha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\Ronaldo\Desktop\Jogo-da-velha-console\Jogo da velha\obj\Debug\Jogo da velha.pdb
