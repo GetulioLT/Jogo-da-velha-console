@@ -2,5 +2,7 @@
 <configuration>
     <startup> 
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8" />
+        print("aula06-23-11-22-1")
+
     </startup>
 </configuration>
